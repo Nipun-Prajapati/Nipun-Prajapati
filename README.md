@@ -1,4 +1,5 @@
 -  👋 Hi, I’m Nipun Prajapati.
+-  👩‍🎓 I'm a second year BCA Student.
 - 👀 I’m interested in  Fronted development and web Development.
 - 🌱 I’m currently learning javascript for Fronted developemnt.
 <!---
